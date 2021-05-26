@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thinhtq/Documents/GitHub/ExpenseManagement/ExpenseManagement/ExpenseManagement/ExpenseManagement.csproj": {}
+    "/Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/ExpenseManagement.csproj": {}
   },
   "projects": {
-    "/Users/thinhtq/Documents/GitHub/ExpenseManagement/ExpenseManagement/ExpenseManagement/ExpenseManagement.csproj": {
+    "/Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/ExpenseManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thinhtq/Documents/GitHub/ExpenseManagement/ExpenseManagement/ExpenseManagement/ExpenseManagement.csproj",
+        "projectUniqueName": "/Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/ExpenseManagement.csproj",
         "projectName": "ExpenseManagement",
-        "projectPath": "/Users/thinhtq/Documents/GitHub/ExpenseManagement/ExpenseManagement/ExpenseManagement/ExpenseManagement.csproj",
+        "projectPath": "/Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/ExpenseManagement.csproj",
         "packagesPath": "/Users/thinhtq/.nuget/packages/",
-        "outputPath": "/Users/thinhtq/Documents/GitHub/ExpenseManagement/ExpenseManagement/ExpenseManagement/obj/",
+        "outputPath": "/Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/thinhtq/.config/NuGet/NuGet.Config"
