@@ -37,3 +37,4 @@
 /Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/obj/Debug/net5.0/ExpenseManagement.pdb
 /Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/obj/Debug/net5.0/ExpenseManagement.genruntimeconfig.cache
 /Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/obj/Debug/net5.0/ExpenseManagement.csproj.CopyComplete
+/Users/thinhtq/Desktop/CNPM CS/ExpenseManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/Index.cshtml.g.cs

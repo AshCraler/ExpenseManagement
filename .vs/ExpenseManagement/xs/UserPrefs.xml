@@ -1,16 +1,27 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D09FBFBF-0A0B-42A1-8D1F-55410209C58F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpenseManagement/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="ExpenseManagement/Controllers/HomeController.cs" Line="22" Column="10" />
+      <File FileName="ExpenseManagement/Controllers/HomeController.cs" Line="4" Column="6" />
       <File FileName="ExpenseManagement/Startup.cs" Line="43" Column="26" />
+      <File FileName="ExpenseManagement/Areas/BankEmployees/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="ExpenseManagement/Areas/BankEmployees/Views/Index.cshtml" Line="2" Column="3" />
+      <File FileName="ExpenseManagement/Views/Home/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExpenseManagement" expanded="True">
             <Node name="ExpenseManagement" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="BankEmployees" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
