@@ -87,17 +87,19 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
             {
                 passbook.PassbookId = IdAutoCreator.newPassbook();
                 SessionData data = SessionHelper.GetCurrentData(HttpContext.Session);
-                passbook.Employee = await _context.Employee.FindAsync(data.Username);
+                passbook.Employee = await _context.Employee.FindAsync("NV_01");
                 passbook.EmployeeRefId = passbook.Employee.EmployeeId;
                 passbook.OpenMethod = "ofline";
                 passbook.CreateDate = new DateTime();
-                passbook.Period = passbook.InterestValue.StandardPeriod;
+                
+                passbook.InterestRefId = "LS";
                 passbook.IsFinalized = false;
                 passbook.SpendingAccount = null;
-                passbook.SpendingAccountRefId = null;
+                passbook.SpendingAccountRefId = "";
 
                 _context.Add(passbook);
                 await _context.SaveChangesAsync();
+                
                 return RedirectToAction(nameof(Index));
             }
             ViewData["CustomerRefId"] = new SelectList(_context.Customer, "CustomerId", "CustomerId", passbook.CustomerRefId);

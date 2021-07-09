@@ -1,17 +1,9 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C2CF01F6-D5E0-459B-B8A6-2C11883FC9ED}|ExpenseManagement">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PassbookManagement/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassbookManagement/Areas/BankEmployees/Controllers/EmpPassbookController.cs">
     <Files>
-      <File FileName="PassbookManagement/Areas/BankEmployees/Controllers/EmpCustomerController.cs" Line="79" Column="43" />
-      <File FileName="PassbookManagement/Areas/BankEmployees/Views/EmpCustomer/Create.cshtml" />
-      <File FileName="PassbookManagement/Models/SeedData.cs" Line="59" Column="39" />
-      <File FileName="PassbookManagement/Models/InterestValue.cs" Line="10" Column="33" />
-      <File FileName="PassbookManagement/Areas/BankEmployees/Controllers/EmpPassbookController.cs" Line="74" Column="42" />
-      <File FileName="PassbookManagement/Areas/BankEmployees/Views/EmpPassbook/Create.cshtml" Line="26" Column="95" />
-      <File FileName="PassbookManagement/Areas/Customers/Views/CusPassbook/Details.cshtml" Line="47" Column="67" />
-      <File FileName="PassbookManagement/Areas/Customers/Views/CusPassbook/Delete.cshtml" Line="48" Column="67" />
-      <File FileName="PassbookManagement/Areas/Customers/Views/CusPassbook/Index.cshtml" Line="64" Column="74" />
-      <File FileName="PassbookManagement/Areas/BankEmployees/Views/EmpPassbook/Delete.cshtml" Line="48" Column="67" />
-      <File FileName="PassbookManagement/Program.cs" Line="34" Column="1" />
+      <File FileName="PassbookManagement/Areas/BankEmployees/Views/EmpPassbook/Create.cshtml" Line="26" Column="70" />
+      <File FileName="PassbookManagement/Areas/BankEmployees/Controllers/EmpPassbookController.cs" Line="94" Column="18" />
+      <File FileName="PassbookManagement/Models/Passbook.cs" Line="39" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +12,9 @@
             <Node name="PassbookManagement" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="BankEmployees" expanded="True">
-                  <Node name="Controllers" expanded="True" />
+                  <Node name="Controllers" expanded="True">
+                    <Node name="EmpPassbookController.cs" selected="True" />
+                  </Node>
                   <Node name="Views" expanded="True">
                     <Node name="EmpCustomer" expanded="True" />
                     <Node name="EmpPassbook" expanded="True" />
@@ -45,7 +39,6 @@
                 <Node name="js" expanded="True" />
                 <Node name="lib" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

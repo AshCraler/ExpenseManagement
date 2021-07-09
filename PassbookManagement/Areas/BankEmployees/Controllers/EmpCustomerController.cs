@@ -63,14 +63,14 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("FullName,BirthDay,IdCardNumber,Email,PhoneNumber,SignatureImage")] CustomerViewModel customerVM)
+        public async Task<IActionResult> Create([Bind("CustomerId,FullName,BirthDay,IdCardNumber,Email,PhoneNumber,SignatureImage")] CustomerViewModel customerVM)
         {
             if (ModelState.IsValid)
             {
                 
                 Customer customer = new Customer
                 {
-                    CustomerId = IdAutoCreator.newCustomer(),
+                    CustomerId = customerVM.CustomerId,
                     FullName = customerVM.FullName,
                     BirthDay = customerVM.BirthDay,
                     IdCardNumber = customerVM.IdCardNumber,
@@ -81,6 +81,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
                 };
                 _context.Add(customer);
                 await _context.SaveChangesAsync();
+                IdAutoCreator.update(IdIndex.customer);
                 return RedirectToAction(nameof(Index));
             }
             return View(customerVM);
@@ -107,7 +108,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("FullName,BirthDay,IdCardNumber,Email,PhoneNumber,SignatureImagePath,SignatureImage")] CustomerViewModel customerVM)
+        public async Task<IActionResult> Edit(string id, [Bind("CustomerId,FullName,BirthDay,IdCardNumber,Email,PhoneNumber,SignatureImagePath,SignatureImage")] CustomerViewModel customerVM)
         {
             if (id != customerVM.CustomerId)
             {
@@ -120,7 +121,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
                 {
                     Customer customer = new Customer
                     {
-                        CustomerId = IdAutoCreator.newCustomer(),
+                        CustomerId = customerVM.CustomerId,
                         FullName = customerVM.FullName,
                         BirthDay = customerVM.BirthDay,
                         IdCardNumber = customerVM.IdCardNumber,

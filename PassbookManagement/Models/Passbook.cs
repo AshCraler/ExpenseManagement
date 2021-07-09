@@ -36,7 +36,7 @@ namespace PassbookManagement.Models
         public string InterestRefId { get; set; }
         public InterestValue InterestValue { get; set; }
 
-        [DataType(DataType.Currency)]
+        
         public int Balance { get; set; }
 
         public bool IsFinalized { get; set; }

@@ -9,12 +9,13 @@ namespace PassbookManagement.Framework
 
     public static class IdAutoCreator
     {
+        
         private static uint[] count = new uint[5];
 
         public static string newSpendAccount()
         {
             string result = "1";
-
+            
             //so chu so cua cus
             byte x = (byte)(Math.Log10(count[0]) + 1);
 
