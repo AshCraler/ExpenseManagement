@@ -33,5 +33,7 @@ namespace PassbookManagement.ViewModel
         [Display(Name = "Destination Account Id")]
         public string SpendingAccountRefId { get; set; }
         public SpendingAccount SpendingAccount { get; set; }
+
+        public TransactionViewModel() { }
     }
 }

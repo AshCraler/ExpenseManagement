@@ -47,6 +47,7 @@ namespace PassbookManagement.ViewModel
         ICollection<ProfitHistory> ProfitHistories { get; set; }
         ICollection<TransactionViewModel> Transactions { get; set; }
 
+        public PassbookViewModel() { }
         public PassbookViewModel(Passbook passbook)
         {
             this.PassbookId = passbook.PassbookId;
