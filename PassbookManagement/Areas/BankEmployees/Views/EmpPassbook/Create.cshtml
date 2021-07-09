@@ -1,0 +1,52 @@
+@model PassbookManagement.Models.Passbook
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Passbook</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PassbookId" class="control-label"></label>
+                <input asp-for="PassbookId" class="form-control" />
+                <span asp-validation-for="PassbookId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerRefId" class="control-label"></label>
+                <select asp-for="CustomerRefId" class ="form-control" asp-items="ViewBag.CustomerRefId"></select>
+            </div>
+            <!--employee-->
+            <!--open method-->
+            <!--create date-->
+            <!--period-->
+            <div class="form-group">
+                <label asp-for="Period" class="control-label"></label>
+                <select asp-for="InterestRefId" class ="form-control" asp-items="ViewBag.InterestRefId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Balance" class="control-label"></label>
+                <input asp-for="Balance" class="form-control" />
+                <span asp-validation-for="Balance" class="text-danger"></span>
+            </div>
+            <!--Is finalized-->
+            <!--Beneficiary spending account-->
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

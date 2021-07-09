@@ -1,0 +1,427 @@
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.csprojAssemblyReference.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.AssemblyInfoInputs.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.AssemblyInfo.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.csproj.CoreCompileInputs.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorAssemblyInfo.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorAssemblyInfo.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/staticwebassets/PassbookManagement.StaticWebAssets.Manifest.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/staticwebassets/PassbookManagement.StaticWebAssets.xml
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/scopedcss/bundle/PassbookManagement.styles.css
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.TagHelpers.input.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.TagHelpers.output.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorCoreGenerate.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorTargetAssemblyInfo.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorTargetAssemblyInfo.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/ref/PassbookManagement.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/wwwroot/Assets/vendor/fontawesome-free/package.json
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/appsettings.Development.json
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/appsettings.json
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.deps.json
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.runtimeconfig.json
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.runtimeconfig.dev.json
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ref/PassbookManagement.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.Views.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/PassbookManagement.Views.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Humanizer.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.Views.pdb
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.csproj.CopyComplete
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/PassbookManagement.genruntimeconfig.cache
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/Home/Login.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/Shared/_Layout.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/_ViewImports.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/_ViewStart.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/_ViewImports.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/_ViewStart.cshtml.g.cs
+/Users/thinhtq/Desktop/CNPM CS/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/wwwroot/Assets/vendor/fontawesome-free/package.json
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/appsettings.Development.json
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/appsettings.json
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.deps.json
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.runtimeconfig.json
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.runtimeconfig.dev.json
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ref/PassbookManagement.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.Views.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/PassbookManagement.Views.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Humanizer.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.csprojAssemblyReference.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.AssemblyInfoInputs.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.AssemblyInfo.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.csproj.CoreCompileInputs.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorAssemblyInfo.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorAssemblyInfo.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/staticwebassets/PassbookManagement.StaticWebAssets.Manifest.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/staticwebassets/PassbookManagement.StaticWebAssets.xml
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/scopedcss/bundle/PassbookManagement.styles.css
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.TagHelpers.input.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.TagHelpers.output.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorCoreGenerate.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpCustomer/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpPassbook/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpProfile/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpSpendingAccount/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/EmpTransaction/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/Shared/_Layout.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/_ViewImports.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/BankEmployees/Views/_ViewStart.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusPassbook/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/CusProfile/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Shared/_Layout.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Create.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Delete.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Details.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Edit.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/Transaction/Index.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/_ViewImports.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Areas/Customers/Views/_ViewStart.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/Home/Login.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorTargetAssemblyInfo.cache
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.RazorTargetAssemblyInfo.cs
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.Views.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.csproj.CopyComplete
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/ref/PassbookManagement.dll
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.pdb
+/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/obj/Debug/net5.0/PassbookManagement.genruntimeconfig.cache

@@ -1,0 +1,56 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C2CF01F6-D5E0-459B-B8A6-2C11883FC9ED}|ExpenseManagement">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassbookManagement/ViewModel/CustomerViewModel.cs">
+    <Files>
+      <File FileName="PassbookManagement/Areas/BankEmployees/Controllers/EmpCustomerController.cs" Line="23" Column="29" />
+      <File FileName="PassbookManagement/Areas/BankEmployees/Views/EmpCustomer/Create.cshtml" Line="36" Column="37" />
+      <File FileName="PassbookManagement/Views/Home/Login.cshtml" Line="45" Column="38" />
+      <File FileName="PassbookManagement/ViewModel/CustomerViewModel.cs" Line="53" Column="41" />
+      <File FileName="PassbookManagement/Areas/BankEmployees/Views/EmpCustomer/Edit.cshtml" Line="52" Column="77" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PassbookManagement" expanded="True">
+            <Node name="PassbookManagement" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="BankEmployees" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="EmpCustomer" expanded="True" />
+                    <Node name="Shared" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Framework" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModel" expanded="True">
+                <Node name="CustomerViewModel.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="Assets" expanded="True">
+                  <Node name="img" expanded="True" />
+                </Node>
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PassbookManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thinhtq/Desktop/Nhom17_18521451_18521468_18520445_18521153__17520308_17520227/PassbookManagement/PassbookManagement/Areas/BankEmployees/Controllers/EmpCustomerController.cs" relfile="PassbookManagement/Areas/BankEmployees/Controllers/EmpCustomerController.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
