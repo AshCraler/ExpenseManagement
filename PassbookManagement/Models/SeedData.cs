@@ -56,77 +56,77 @@ namespace PassbookManagement.Models
                     context.Interest.AddRange(
                         new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "1 thang",
                             StandardPeriod = 1,
                             StandardInterestRate = 3.1f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "2 thang",
                             StandardPeriod = 2,
                             StandardInterestRate = 3.2f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "3 thang",
                             StandardPeriod = 3,
                             StandardInterestRate = 3.3f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "6 thang",
                             StandardPeriod = 6,
                             StandardInterestRate = 4.5f,
                             
                         },new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "9 thang",
                             StandardPeriod = 9,
                             StandardInterestRate = 4.9f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "12 thang",
                             StandardPeriod = 12,
                             StandardInterestRate = 5.6f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "15 thang",
                             StandardPeriod = 15,
                             StandardInterestRate = 6.2f,
                             
                         },new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "18 thang",
                             StandardPeriod = 18,
                             StandardInterestRate = 6.2f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "24 thang",
                             StandardPeriod = 24,
                             StandardInterestRate = 6.2f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "36 thang",
                             StandardPeriod = 36,
                             StandardInterestRate = 6.2f,
                             
                         }, new InterestValue
                         {
-                            InterestValueId = IdAutoCreator.newInterest(),
+                            InterestId = IdAutoCreator.newInterest(),
                             Name = "Khong thoi han",
                             StandardPeriod = 0,
                             StandardInterestRate = 2.0f,
