@@ -36,15 +36,13 @@ namespace PassbookManagement.ViewModel
         public string PhoneNumber { get; set; }
 
         
-        
+        public IFormFile SignatureImage { get; set; }
         public string SignatureImagePath { get; set; }
         
 
         //reference entity
-        public LoginAccount LoginAccount { get; set; }
-        public SpendingAccountViewModel SpendingAccount { get; set; }
-        public ICollection<PassbookViewModel> Passbooks { get; set; }
 
+        public CustomerViewModel() { }
         public CustomerViewModel(Customer customer)
         {
             this.FullName = customer.FullName;

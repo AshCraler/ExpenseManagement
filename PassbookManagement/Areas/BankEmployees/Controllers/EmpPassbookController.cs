@@ -71,7 +71,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
         public IActionResult Create()
         {
             ViewData["CustomerRefId"] = new SelectList(_context.Customer, "CustomerId", "CustomerId");
-            ViewData["InterestRefId"] = new SelectList(_context.Set<InterestValue>(), "InterestId", "StandarInterestRate");
+            ViewData["InterestRefId"] = new SelectList(_context.Set<InterestValue>(), "InterestId", "InterestId");
             ViewData["SpendingAccountRefId"] = new SelectList(_context.Set<SpendingAccount>(), "AccountId", "AccountId");
             return View();
         }
@@ -81,10 +81,11 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("PassbookId,CustomerRefId,InterestRefId,Balance")] Passbook passbook)
+        public async Task<IActionResult> Create([Bind("CustomerRefId,InterestRefId,Balance")] Passbook passbook)
         {
             if (ModelState.IsValid)
             {
+                passbook.PassbookId = IdAutoCreator.newPassbook();
                 SessionData data = SessionHelper.GetCurrentData(HttpContext.Session);
                 passbook.Employee = await _context.Employee.FindAsync(data.Username);
                 passbook.EmployeeRefId = passbook.Employee.EmployeeId;

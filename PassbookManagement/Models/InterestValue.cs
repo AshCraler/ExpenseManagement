@@ -7,7 +7,7 @@ namespace PassbookManagement.Models
     public class InterestValue
     {
         [Key]
-        public string InterestId { get; set; }
+        public string InterestValueId { get; set; }
 
         [Required]
         public string Name { get; set; }

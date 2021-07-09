@@ -63,7 +63,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("FullName,BirthDay,IdCardNumber,Email,PhoneNumber")] CustomerViewModel customerVM)
+        public async Task<IActionResult> Create([Bind("FullName,BirthDay,IdCardNumber,Email,PhoneNumber,SignatureImage")] CustomerViewModel customerVM)
         {
             if (ModelState.IsValid)
             {
@@ -76,7 +76,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
                     IdCardNumber = customerVM.IdCardNumber,
                     Email = customerVM.Email,
                     PhoneNumber = customerVM.PhoneNumber,
-                    SignatureImagePath = null,
+                    SignatureImagePath = "",
 
                 };
                 _context.Add(customer);
@@ -126,7 +126,7 @@ namespace PassbookManagement.Areas.BankEmployees.Controllers
                         IdCardNumber = customerVM.IdCardNumber,
                         Email = customerVM.Email,
                         PhoneNumber = customerVM.PhoneNumber,
-                        
+                        SignatureImagePath = UploadedFile(customerVM.SignatureImage)
 
                     };
                     _context.Update(customer);

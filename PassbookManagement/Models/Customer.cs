@@ -33,7 +33,7 @@ namespace PassbookManagement.Models
         [Required]
         public string PhoneNumber { get; set; }
 
-        [Required(ErrorMessage ="Please choose signature image")]
+        
         public string SignatureImagePath { get; set; }
 
         //reference entity
